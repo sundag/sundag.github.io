@@ -67,7 +67,7 @@ gitalk:
   clientID:  "403652904e1687e5ae5a"
   clientSecret: "7f279a117adb8b5f6c9036bad10b99decc921790"
   repository: "sundag.github.io"
-  owner:  "sunadg"
+  owner:  "sundag"
   admin:
     - sundag
 
