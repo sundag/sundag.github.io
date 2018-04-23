@@ -3,6 +3,7 @@ tags:
 - Kibana
 - Elasticsearch
 - 大数据
+key: 20180423
 ---
 # Kibana 与 Elasticsearch 通讯分析(2)
 上一篇中我们将通讯分为了两类。在这一篇我们具体分析一下两类通讯的区别。

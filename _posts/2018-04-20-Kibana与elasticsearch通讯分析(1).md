@@ -3,6 +3,7 @@ tags:
 - Kibana
 - Elasticsearch
 - 大数据
+key: 20180420
 ---
 # Kibana 与 Elasticsearch 通讯分析(1)
 最近正在开发一个大数据相关项目，使用Elasticsearch与Kibana给客户提供图形化面板。因为项目需求研究了不少Kibana与Elasticsearch之间的通讯。在这里做一点记录。
