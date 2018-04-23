@@ -44,10 +44,10 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Anchor
-  # email:  #your Email address e.g. someone@site.com
+   email:  sundg1@163.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  # github:  #your GitHub username
+   github:  sundag
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
@@ -64,12 +64,12 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  # clientID:  #Github Application Client ID
-  # clientSecret:  #Github Application Client Secret
-  # repository:  #Github repo
-  # owner:  #Github repo owner
-  # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    # - owner
+   clientID:  403652904e1687e5ae5a
+   clientSecret:      7f279a117adb8b5f6c9036bad10b99decc921790
+   repository:  sundag.github.io
+   owner:  sunadg
+   admin:
+     - sundag
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
