@@ -44,10 +44,10 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Anchor
-    email: "sundg1@163.com"
+  email: "sundg1@163.com"
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-    github: "sundag"
+  github: "sundag"
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
